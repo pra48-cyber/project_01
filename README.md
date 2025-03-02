@@ -17,3 +17,5 @@ Git LFS – Handling large files (like similarity.pkl)
 
 📂 Dataset
 The project uses a dataset containing movie titles, genres, cast, crew, and user ratings
+using tmdb data set of movies and credit and using api for fetching poster and trailers
+
